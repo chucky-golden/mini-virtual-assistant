@@ -1,0 +1,5 @@
+........owerri..........
+Temperature: 305.85
+Humidity: 58
+Pressure: 1010
+Report: overcast clouds
